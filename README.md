@@ -40,7 +40,7 @@ Or use the button on the right → **Releases** → download the newest `.zip`
 3. Follow the steps from the YouTube video  
 4. Start duping
 
-🎥 **Video guide:** [Insert your YouTube link]
+🎥 **Video guide:** [https://youtu.be/ANWEq-0omuA]
 
 ---
 
