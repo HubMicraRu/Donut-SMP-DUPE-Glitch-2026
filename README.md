@@ -23,6 +23,10 @@ Or use the button on the right → **Releases** → download the newest `.zip`
 
 ---
 
+<img width="1536" height="1024" alt="image1" src="https://github.com/user-attachments/assets/e7f4cc9a-7522-4c3a-b596-c2e8b53ca29a" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/9ba69a3a-3b24-46ca-9fc6-caafa7b9a2d9" />
+
+
 ## ✅ Features
 
 - ✔️ Working on Donut SMP (2026)
